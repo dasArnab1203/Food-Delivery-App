@@ -4,7 +4,7 @@ function BannerName({ name, discount, more }) {
   const currency = "$";
   return (
     <div className="bannerContent">
-      <h3>Hello {name},</h3>
+      <h3>Hello,</h3>
       <p>
         Get free discount for every <span>{`${currency}${discount}`}</span>{" "}
         purchase
