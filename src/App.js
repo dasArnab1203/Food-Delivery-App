@@ -82,9 +82,9 @@ function App() {
         <div className="mainContainer">
           {/* Banner  */}
           <div className="banner">
-            <BannerName name={"Jeremy"} discount={"20"} more={"#"} />
+            <BannerName name={"Arnab"} discount={"20"} more={"#"} />
             <img
-              src="https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Fdelivery.png?alt=media&token=69b9823d-96df-452a-bd4e-14d27a4cc337"
+              src="https://firebasestorage.googleapis.com/v0/b/food-delivery-86231.appspot.com/o/pngwing.com.png?alt=media&token=a7733e59-d179-46a5-8b56-fd1eb0eaeb83"
               alt=""
               className="deliveryPic"
             />
@@ -133,7 +133,7 @@ function App() {
           {!cart ? (
             <div className="addSomeItem">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2FemptyCart.png?alt=media&token=50b733d4-cdd9-4025-bffe-8efa4066ca24"
+                src="https://firebasestorage.googleapis.com/v0/b/food-delivery-86231.appspot.com/o/emptyCart.png?alt=media&token=9bc8b3cf-1d50-4c3a-a8a4-eaae4cfeec75"
                 alt=""
                 className="emptyCart"
               />

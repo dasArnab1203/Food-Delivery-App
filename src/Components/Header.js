@@ -19,7 +19,7 @@ function Header() {
   return (
     <header>
       <img
-        src="https://firebasestorage.googleapis.com/v0/b/food-delivery-37c59.appspot.com/o/Images%2Flogo.png?alt=media&token=fc228623-ef27-4af4-8ea5-b9ebeeaf47dc"
+        src="https://firebasestorage.googleapis.com/v0/b/food-delivery-86231.appspot.com/o/%E2%80%94Pngtree%E2%80%94fast%20food%20logo_8380994.png?alt=media&token=e1518920-330f-4a8f-97c5-a232773982fd"
         alt=""
         className="logo"
       />
